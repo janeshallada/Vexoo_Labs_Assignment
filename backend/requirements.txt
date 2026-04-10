@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+numpy
+pandas
+scikit-learn
+sentence-transformers
+faiss-cpu
+transformers
+datasets
+peft
+accelerate
+torch
+fuzzywuzzy
+python-Levenshtein
